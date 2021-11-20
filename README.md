@@ -16,5 +16,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavomenabarreto&label=Profile%20views&color=0e75b6&style=flat" alt="gustavomenabarreto" /> </p>  
 </div>
 
+![Snake animation](https://github.com/gustavomenabarreto/gustavomenabarreto/blob/output/github-contribution-grid-snake.svg)
 
 
