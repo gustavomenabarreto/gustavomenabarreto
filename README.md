@@ -11,9 +11,7 @@
 <h3 align="left">Languages:</h3>
 <div>
 <a href="https://github.com/gustavomenabarreto">
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomenabarreto&layout=compact&langs_count=7&theme=dracula"/>
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavomenabarreto&label=Profile%20views&color=0e75b6&style=flat" alt="gustavomenabarreto" /> </p>  
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomenabarreto&layout=compact&langs_count=7&theme=dracula"/> 
 </div>
 
 ![Snake animation](https://github.com/gustavomenabarreto/gustavomenabarreto/blob/output/github-contribution-grid-snake.svg)
